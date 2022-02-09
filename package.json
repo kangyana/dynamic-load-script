@@ -2,7 +2,8 @@
   "name": "dynamic-load-script",
   "version": "1.0.0",
   "description": "Dynamic loading (CDN / local script)",
-  "main": "lib/index.ts",
+  "main": "./dist/load-script.min.js",
+  "module": "./dist/load-script.esm.js",
   "license": "MIT",
   "scripts": {
     "bootstrap": "yarn",
