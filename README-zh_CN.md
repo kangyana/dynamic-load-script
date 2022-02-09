@@ -10,7 +10,7 @@
 
 > 使用中有问题查看 `example` 中的代码
 >
-> 有问题可以微信联系 pangzaoli，备注 dynamic-load-script
+> 有问题可以QQ联系 564469630，备注 dynamic-load-script
 >
 > [在 CodePen 中尝试一下](https://codepen.io/kangyana/pen/rNYyPWB)
 >
