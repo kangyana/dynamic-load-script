@@ -1,10 +1,24 @@
 {
   "name": "dynamic-load-script",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Dynamic loading (CDN / local script)",
+  "keywords": [
+    "load-script",
+    "js-script"
+  ],
+  "homepage": "https://github.com/kangyana/dynamic-load-script",
+  "bugs": {
+    "url": "https://github.com/kangyana/dynamic-load-script/issues",
+    "email": "564469630@qq.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "kangyana",
+    "email": "564469630@qq.com",
+    "url": "https://github.com/kangyana"
+  },
   "main": "./dist/load-script.min.js",
   "module": "./dist/load-script.esm.js",
-  "license": "MIT",
   "scripts": {
     "bootstrap": "yarn",
     "build": "rollup -c ./build/rollup.config.js"
