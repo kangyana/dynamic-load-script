@@ -2,7 +2,7 @@
 
 [![NPM Package][npm]][npm-url]
 
-English | [简体中文](./README-zh_CN.md)
+English | [简体中文](https://github.com/kangyana/dynamic-load-script/blob/master//README-zh_CN.md)
 
 #### Dynamic loading (CDN / local script)
 
@@ -11,7 +11,6 @@ The aim of the project is to create an easy to use, lightweight, cross-browser, 
 > Check the code in the `example` if there is a problem in use.
 >
 > [Try it in CodePen](https://codepen.io/kangyana/pen/rNYyPWB)
->
 
 ## Installation
 
@@ -57,13 +56,13 @@ Cloning the repo with all its history results in a ~2 MB download. If you don't 
 git clone --depth=1 https://github.com/kangyana/dynamic-load-script.git
 ```
 
-### Change log ###
+## Change log
 
 [Releases](https://github.com/kangyana/dynamic-load-script/releases)
 
 ## License
 
-[MIT](./LICENSE)
+[MIT](https://github.com/kangyana/dynamic-load-script/blob/master/LICENSE)
 
 Copyright (c) 2022-present, kangyana
 

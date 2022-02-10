@@ -2,7 +2,7 @@
 
 [![NPM Package][npm]][npm-url]
 
-[English](./README.md) | 简体中文
+[English](https://github.com/kangyana/dynamic-load-script/blob/master//README.md) | 简体中文
 
 #### 动态加载CDN或本地脚本
 
@@ -13,7 +13,6 @@
 > 有问题可以QQ联系 564469630，备注 dynamic-load-script
 >
 > [在 CodePen 中尝试一下](https://codepen.io/kangyana/pen/rNYyPWB)
->
 
 ## 安装
 
@@ -63,9 +62,9 @@ git clone --depth=1 https://github.com/kangyana/dynamic-load-script.git
 
 [Releases](https://github.com/kangyana/dynamic-load-script/releases)
 
-## License
+## 许可证
 
-[MIT](./LICENSE)
+[MIT](https://github.com/kangyana/dynamic-load-script/blob/master/LICENSE)
 
 Copyright (c) 2022-present, kangyana
 
