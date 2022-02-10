@@ -28,10 +28,16 @@
 ### 使用 npm
 
 ```bash
+npm install dynamic-load-script --save
+```
+
+### 使用 yarn
+
+```bash
 yarn add dynamic-load-script --save
 ```
 
-## 使用
+## 用法
 
 ```javascript
 import loadScript from 'dynamic-load-script';

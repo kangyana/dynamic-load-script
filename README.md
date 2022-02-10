@@ -26,6 +26,12 @@ You can use it at ./dist/*
 ### Using npm
 
 ```bash
+npm install dynamic-load-script --save
+```
+
+### Using yarn
+
+```bash
 yarn add dynamic-load-script --save
 ```
 

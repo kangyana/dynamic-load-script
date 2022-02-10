@@ -15,7 +15,7 @@ const loadScript = (_url: string) => {
   script.type = 'text/javascript';
   script.src = _url;
   head.appendChild(script);
-  return new Promise((resolve, reject) => {
+  return new Promise<boolean>((resolve, reject) => {
     script.onload = () => {
       resolve(true);
     };
