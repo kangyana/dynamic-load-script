@@ -1,6 +1,6 @@
 {
   "name": "dynamic-load-script",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dynamic loading (CDN / local script)",
   "main": "./dist/load-script.min.js",
   "module": "./dist/load-script.esm.js",
@@ -9,10 +9,6 @@
     "bootstrap": "yarn",
     "build": "rollup -c ./build/rollup.config.js"
   },
-  "files": [
-    "lib",
-    "@types"
-  ],
   "types": "@types/index.d.ts",
   "lint-staged": {
     "**/*.{js,jsx,ts,tsx}": "npm run lint-staged:js",
