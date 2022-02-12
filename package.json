@@ -1,6 +1,6 @@
 {
   "name": "dynamic-load-script",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Dynamic loading (CDN / local script)",
   "keywords": [
     "load-script",

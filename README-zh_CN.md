@@ -1,6 +1,10 @@
 # dynamic-load-script
 
 [![NPM Package][npm]][npm-url]
+[![NPM downloads][npm-downloads]][npm-url]
+![gzip size](https://img.badgesize.io/https:/unpkg.com/dynamic-load-script?label=gzip%20size&compression=gzip)
+![GitHub](https://img.shields.io/github/license/kangyana/dynamic-load-script)
+
 
 [English](https://github.com/kangyana/dynamic-load-script/blob/master//README.md) | 简体中文
 
@@ -71,3 +75,4 @@ Copyright (c) 2022-present, kangyana
 
 [npm]: https://img.shields.io/npm/v/dynamic-load-script
 [npm-url]: https://www.npmjs.com/package/dynamic-load-script
+[npm-downloads]: https://img.shields.io/npm/dm/dynamic-load-script
